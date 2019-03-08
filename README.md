@@ -11,3 +11,5 @@ modify android/build/soong/cc/config/global.go, mark two line
         }
 ```
 and then compile, do mm under android/external/android-wget/
+
+./wget --bind-address=192.168.1.147 http://www.gnu.org/software/wget/manual/wget.html
